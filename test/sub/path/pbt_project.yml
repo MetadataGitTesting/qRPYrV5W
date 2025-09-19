@@ -1,0 +1,50 @@
+name: ling.lueilwitz
+description: time-frame
+version: 0.0.1
+author: ngc7vwwv.c7hpb4nd@rhwmnfej.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: linglueilwitz
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:40:48'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:40:48'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:40:48.158412Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '189315373'
+  createdAt: '2025-09-19T23:40:48.158412Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
